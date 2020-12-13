@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=HamClock
+Exec=sudo /home/pi/ESPHamClock/hamclock-800x480 > /dev/null
+Icon=/home/pi/ESPHamClock/hamclock.png
+Terminal=false
+Type=Application
